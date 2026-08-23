@@ -7,7 +7,7 @@ See [progress.md](./progress.md) for the daily log.
 
 ## Phases
 - [x] Environment setup (WSL2, Docker, VS Code)
-- [x] Git & GitHub
+- [ ] Git & GitHub
 - [ ] Linux fundamentals
 - [ ] Networking
 - [ ] Bash & Python scripting
